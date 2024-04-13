@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from market_square.models import db
 from market_square.models import User  # Import your User model
 
