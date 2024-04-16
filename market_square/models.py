@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from market_square import db, login_manager
 from flask_login import UserMixin
 from datetime import datetime
